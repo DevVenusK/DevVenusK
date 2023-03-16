@@ -1,4 +1,4 @@
-![Venus's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevVenusK&show_icons=true&theme=default)
+![Venus's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevVenusK&show_icons=true&theme=swift)
 
 ## 💻 Skills
 ### Languages
