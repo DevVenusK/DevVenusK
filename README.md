@@ -1,4 +1,4 @@
-![Venus's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevVenusK&show_icons=true&theme=swift)
+![Venus's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevVenusK&show_icons=true&theme=swift&count_private=true)
 
 ## 🙌🏻 iOS Engineer
 I strive for continuous communication to pursue not only my own growth but also that of the team and the company. I always focus on the question "why" and foster efficient decision-making and problem-solving through sincere conversations with colleagues. Additionally, I actively share feedback and ideas while respecting and embracing my colleagues' opinions and ideas. I believe that these communication skills help me cultivate a culture of mutual respect and collaboration in the work environment, ultimately leading to better results.
